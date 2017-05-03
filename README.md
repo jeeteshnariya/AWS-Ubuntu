@@ -53,3 +53,7 @@ Type this command once to return to the root user:
 
 exit
 ```
+## Restart Server
+```
+sudo shutdown -r now
+```
